@@ -4,7 +4,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me
-                                                  👋 Hi, I’m Jay Kishore Duvvuri<br> 
+                                                  👋 Hi, I’m Jay Kishore Duvvuri
+						 ** Senior Test Automation Engineer**
 🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on api and performance automation frameworks using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Fun fact - I like to have some fun while working
 
 
