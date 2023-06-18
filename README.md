@@ -2,6 +2,7 @@
 👋 Hi, I’m Jay Kishore Duvvuri<br> 🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on designing new automation frameworks on mobile, api and performance automation testing using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Fun fact - I like to have some fun while working
 
 ## 🌐 Blogger profile:
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 [**Profile**](https://www.blogger.com/profile/06939442079028713822)
 	
 
@@ -18,9 +19,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+ 
 <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-1997B5&?logo=jenkins&logoColor=white&style=for-the-badge">
-	
+
+
+
+ 
 </p>
 	
 
