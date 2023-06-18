@@ -15,7 +15,8 @@
 
 # 💻 Tech Stack:
 <p>
- <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white">
+ <img src="https://img.shields.io/badge/Playwright?style=for-the-badge&logo=cypress&logoColor=white">
+ <img src="https://img.shields.io/badge/Cypress-F7DF1E?style=for-the-badge&logo=cypress&logoColor=white">
 
 
   
