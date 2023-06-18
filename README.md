@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m Jay Kishore Duvvuri<br> 🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on designing new automation frameworks on mobile, api and performance automation testing using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Fun fact - I like to have some fun while working <br> 📫 How to reach me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70)
+👋 Hi, I’m Jay Kishore Duvvuri<br> 🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on designing new automation frameworks on mobile, api and performance automation testing using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Fun fact - I like to have some fun while working
 
 ## 🌐 Blogger profile:
 [**Profile**](https://www.blogger.com/profile/06939442079028713822)
 
-## 🌐 Socials:
+## 📫 How to reach me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
 
 ## ▶️ Recent videos:
