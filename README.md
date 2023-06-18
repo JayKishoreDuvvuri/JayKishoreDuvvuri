@@ -18,8 +18,11 @@
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
 [**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
 
+
 ## ☁ Cloud Certifications
-[**Azure DevOps Engineer**](https://www.credly.com/badges/271c62f5-aeff-491c-9fe1-b0b82e9dd5a3) <br>
+[**Azure DevOps Engineer Expert**](https://www.credly.com/badges/271c62f5-aeff-491c-9fe1-b0b82e9dd5a3) <br>
+[**Azure Administrator Associate**](https://www.credly.com/badges/69bc26bc-7b93-467b-8143-f629bf24a19a) <br>
+[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/2a6ade65-f598-41b2-83d8-1859521c8661) 
 
 
 
