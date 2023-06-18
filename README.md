@@ -10,7 +10,7 @@
 [**Blogger Profile**](https://www.blogger.com/profile/06939442079028713822)
 	
 
-## 🌐 Connect with me on
+## 🌐 Reach out to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
 
 ## ▶️ Recent videos
