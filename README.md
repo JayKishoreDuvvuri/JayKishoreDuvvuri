@@ -43,7 +43,7 @@
  <img src="https://img.shields.io/badge/Selenium Webdriver-3A76F0?style=for-the-badge&logo=selenium&logoColor=white">
  <img src="https://img.shields.io/badge/Tricentis Tosca-543DE0?style=for-the-badge&logo=tosca&logoColor=white">
  <img src="https://img.shields.io/badge/Robot Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white">
- <img src="https://img.shields.io/badge/Appium-3A76F0?style=for-the-badge&logo=appium&logoColor=white">
+ <img src="https://img.shields.io/badge/Appium-3A76F0?style=for-the-badge&logo=appium.io&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
