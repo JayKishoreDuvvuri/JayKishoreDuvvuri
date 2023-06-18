@@ -18,6 +18,7 @@
  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white">
  <img src="https://img.shields.io/badge/Cypress-330F63?style=for-the-badge&logo=cypress&logoColor=white">
  <img src="https://img.shields.io/badge/WebdriverIO-EA4C89?style=for-the-badge&logo=WebdriverIO&logoColor=white">
+ <img src="https://img.shields.io/badge/TestCafe-1877F2?style=for-the-badge&logo=testcafe&logoColor=white">
 
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
