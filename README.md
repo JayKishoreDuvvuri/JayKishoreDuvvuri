@@ -47,7 +47,7 @@
  <img src="https://img.shields.io/badge/Appium-3A76F0?style=for-the-badge&logo=appium&logoColor=white">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
- <img src="https://img.shields.io/badge/detox-330F63?style=for-the-badge&logo=detox&logoColor=white">
+ <img src="https://img.shields.io/badge/detox-%2320232a.svg?style=for-the-badge&logo=detox&logoColor=white">
 	
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
