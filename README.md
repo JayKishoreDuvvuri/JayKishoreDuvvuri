@@ -22,7 +22,7 @@
  <img src="https://img.shields.io/badge/Puppeteer-23E60023?&style=for-the-badge&logo=puppeteer&logoColor=white">
  <img src="https://img.shields.io/badge/WebDriverJs-%23B92B27?&style=for-the-badge&logo=webdriverjs&logoColor=white">
  <img src="https://img.shields.io/badge/Selenium Webdriver-3A76F0?style=for-the-badge&logo=selenium&logoColor=white">
- <img src="https://img.shields.io/badge/Tricentis Tosca-543DE0?style=for-the-badge&logo=tricentistosca&logoColor=black">
+ <img src="https://img.shields.io/badge/Tricentis Tosca-543DE0?style=for-the-badge&logo=tosca&logoColor=black">
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
