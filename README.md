@@ -20,10 +20,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-1997B5&?logo=jenkins&logoColor=white&style=for-the-badge">
+	
 </p>
 	
 
-<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JayKishoreDuvvuri&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayKishoreDuvvuri&theme=highcontrast&hide_border=false)<br/>
