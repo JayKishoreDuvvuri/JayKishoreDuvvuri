@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on designing new automation frameworks on mobile, api and performance automation testing using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Fun fact - I like to have some fun while working 
 
-## 🌐 Blogger profile:
+## 🌐 ![image](https://github.com/JayKishoreDuvvuri/JayKishoreDuvvuri/assets/42520193/6586273b-ec76-443c-90fc-5885a8a25413)
+Blogger profile:
 [**Profile**](https://www.blogger.com/profile/06939442079028713822)
 
 ## 🌐 Socials:
