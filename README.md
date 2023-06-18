@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-1997B5&?logo=jenkins&logoColor=white&style=for-the-badge">
-
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 
  
