@@ -16,6 +16,7 @@
 ## 🌐 Reach out to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
 <br>
+
 ## ▶️ Recent videos
 [**Playwright GitHub Repo**](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI) <br>
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
