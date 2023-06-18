@@ -3,6 +3,7 @@
 
 ## 🌐 Blogger profile:
 [**Profile**](https://www.blogger.com/profile/06939442079028713822)
+	https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 
 ## 📫 Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
