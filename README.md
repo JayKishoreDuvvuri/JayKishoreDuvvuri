@@ -18,6 +18,10 @@
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
 [**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
 
+## ☁ Cloud Certifications
+
+
+
 # 💻 Tech Stack
 <p>
  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white">
