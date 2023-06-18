@@ -14,12 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
 
 
-
 ## ▶️ Recent videos
 [**Playwright GitHub Repo**](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI) <br>
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
 [**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
-
 
 
 ## ☁ Cloud Certifications
