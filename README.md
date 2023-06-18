@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/WebDriverJs-%23B92B27?&style=for-the-badge&logo=webdriverjs&logoColor=white">
  <img src="https://img.shields.io/badge/Selenium Webdriver-3A76F0?style=for-the-badge&logo=selenium&logoColor=white">
  <img src="https://img.shields.io/badge/Tricentis Tosca-543DE0?style=for-the-badge&logo=tosca&logoColor=black">
+ <img src="/_next/image?url=https%3A%2F%2Fbe.tricentis.com%2Fmedia-assets%2F2022%2F08%2Ftricentis-Logo.png&w=384&q=75">
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
