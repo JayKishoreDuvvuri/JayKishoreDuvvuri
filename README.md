@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/WebdriverIO-EA4C89?style=for-the-badge&logo=webdriverio&logoColor=white">
  <img src="https://img.shields.io/badge/TestCafe-1877F2?style=for-the-badge&logo=testcafe&logoColor=white">
  <img src="https://img.shields.io/badge/Puppeteer-23E60023?&style=for-the-badge&logo=puppeteer&logoColor=white">
- <img src="https://img.shields.io/badge/WebDriverJs-%23B92B27.?&style=for-the-badge&logo=webdriverjs&logoColor=white">
+ <img src="https://img.shields.io/badge/WebDriverJs-%23B92B27?&style=for-the-badge&logo=webdriverjs&logoColor=white">
  <img src="https://img.shields.io/badge/Selenium Webdriver-3A76F0?style=for-the-badge&logo=selenium&logoColor=white">
 
   
