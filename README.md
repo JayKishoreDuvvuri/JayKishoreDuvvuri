@@ -15,6 +15,7 @@
 
 ## 🌐 Reach out to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
+
 <br>
 
 ## ▶️ Recent videos
@@ -22,12 +23,14 @@
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
 [**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
 
+<br>
 
 ## ☁ Cloud Certifications
 [**Azure DevOps Engineer Expert**](https://www.credly.com/badges/271c62f5-aeff-491c-9fe1-b0b82e9dd5a3) <br>
 [**Azure Administrator Associate**](https://www.credly.com/badges/69bc26bc-7b93-467b-8143-f629bf24a19a) <br>
 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/2a6ade65-f598-41b2-83d8-1859521c8661) 
 
+<br>
 
 
 ## 💻 Tech Stack
@@ -63,13 +66,14 @@
  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 	
-
+<br>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JayKishoreDuvvuri&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayKishoreDuvvuri&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayKishoreDuvvuri&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayKishoreDuvvuri&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
