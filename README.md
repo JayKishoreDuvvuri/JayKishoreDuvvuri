@@ -19,6 +19,7 @@
 [**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
 
 ## ☁ Cloud Certifications
+[**Azure DevOps Engineer**](https://www.credly.com/badges/271c62f5-aeff-491c-9fe1-b0b82e9dd5a3) <br>
 
 
 
