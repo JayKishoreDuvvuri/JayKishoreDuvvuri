@@ -15,6 +15,10 @@
 
 # 💻 Tech Stack:
 <p>
+ <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=codepen&logoColor=white">
+
+
+  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
