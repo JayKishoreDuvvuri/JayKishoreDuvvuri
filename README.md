@@ -28,7 +28,6 @@
 ## ☁ Cloud Certifications
 [**Azure DevOps Engineer Expert**](https://www.credly.com/badges/271c62f5-aeff-491c-9fe1-b0b82e9dd5a3) <br>
 [**Azure Administrator Associate**](https://www.credly.com/badges/69bc26bc-7b93-467b-8143-f629bf24a19a) <br>
-[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/2a6ade65-f598-41b2-83d8-1859521c8661) 
 
 
 
