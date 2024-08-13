@@ -26,7 +26,7 @@
 
 
 ## ☁ Cloud Certifications
-[**Azure DevOps Engineer Expert**](https://www.credly.com/badges/271c62f5-aeff-491c-9fe1-b0b82e9dd5a3](https://learn.microsoft.com/api/credentials/share/en-us/JayKishoreDuvvuri-2388/E94457818A037305?sharingId=9CEB1C181ED4D909) <br>
+[**Azure DevOps Engineer Expert**](https://learn.microsoft.com/api/credentials/share/en-us/JayKishoreDuvvuri-2388/E94457818A037305?sharingId=9CEB1C181ED4D909) <br>
 [**Azure Administrator Associate**](https://learn.microsoft.com/api/credentials/share/en-us/JayKishoreDuvvuri-2388/E94457818A037305?sharingId=9CEB1C181ED4D909) <br>
 
 
