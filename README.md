@@ -19,6 +19,7 @@
 
 
 ## ▶️ Recent videos
+[**QA Samvaad Talk Show**](https://www.youtube.com/watch?v=FmeoZr4pG7M) <br>
 [**Playwright GitHub Repo**](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI) <br>
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
 [**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
