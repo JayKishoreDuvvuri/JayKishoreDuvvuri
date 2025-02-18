@@ -19,6 +19,7 @@
 
 
 ## ▶️ Recent videos
+[**Playwright JavaScript with AI**](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8dnH4B2FaY6zq62jD8KErL7CWC4huXtgI) <br>
 [**QA Samvaad Talk Show**](https://www.youtube.com/watch?v=FmeoZr4pG7M) <br>
 [**Playwright GitHub Repo**](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI) <br>
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
