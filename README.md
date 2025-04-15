@@ -28,7 +28,7 @@
 
 
 ## ☁ Cloud Certifications
-[**Azure DevOps Engineer Expert**](https://learn.microsoft.com/api/credentials/share/en-us/JayKishoreDuvvuri-2388/E94457818A037305?sharingId=9CEB1C181ED4D909) <br>
+[**Azure DevOps Engineer Expert**](https://learn.microsoft.com/api/credentials/share/en-us/JayKishoreDuvvuri-2388/663A554B180DB549?sharingId=9CEB1C181ED4D909) <br>
 [**Azure Administrator Associate**](https://learn.microsoft.com/api/credentials/share/en-us/JayKishoreDuvvuri-2388/E94457818A037305?sharingId=9CEB1C181ED4D909) <br>
 
 
