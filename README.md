@@ -9,7 +9,7 @@
 
 
 ## CV
-([https://linkedin.com/in/jay-kishore-duvvuri-712b1a70](https://jaykishoreduvvuri-luvoczi.gamma.site/) 
+(https://jaykishoreduvvuri-luvoczi.gamma.site/) 
 
 
 ## ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
