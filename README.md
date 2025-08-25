@@ -9,7 +9,7 @@
 
 
 ## CV
-[![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://jaykishoreduvvuri-luvoczi.gamma.site/) 
+[![CV](https://img.shields.io/badge/CV-%530077B5.svg?logo=CV&logoColor=white)](https://jaykishoreduvvuri-luvoczi.gamma.site/) 
 
 
 ## ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
