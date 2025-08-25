@@ -7,8 +7,8 @@
 👋 Hi, I’m Jay Kishore Duvvuri<br>
 🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on api and performance automation frameworks using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Interesting fact - Learn more about agile processes and infrastructure automation processes
 
-## <img width="227" height="268" alt="Screenshot 2025-08-25 at 22 44 44" src="https://github.com/user-attachments/assets/77de314b-651d-4fd5-b4cb-47c04a887660" />
- CV
+
+## CV
 [![CV]]([https://linkedin.com/in/jay-kishore-duvvuri-712b1a70](https://jaykishoreduvvuri-luvoczi.gamma.site/)) 
 
 
