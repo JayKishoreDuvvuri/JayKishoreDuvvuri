@@ -5,8 +5,7 @@
 
 # 💫 About Me
 👋 Hi, I’m Jay Kishore Duvvuri<br>
-🔭 I'm currently working on playwright test automation<br> 👯 I'm looking to collaborate on mobile, web test automation and new tooling<br> 🤝 I'm looking for help on api and performance automation frameworks using k6.io<br> 🌱 I'm currently learning devops topics<br> 💬 Ask me about test automation topics<br> ⚡ Interesting fact - Learn more about agile processes and infrastructure automation processes
-
+🔭 Currently crafting automation frameworks with Playwright<br> 👯 Love collaborating on test automation for web, mobile, and new tools<br> 🤝 Experimenting with API testing and performance automation using k6.io<br> 🌱 On a journey of learning DevOps, CI/CD, and cloud automation<br> 💬 Always excited to chat about automation hacks, tooling, and testing strategies<br> ⚡ Fun fact: I enjoy connecting agile practices with automation-first approaches
 
 ## CV
 [![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://jaykishoreduvvuri-luvoczi.gamma.site/) 
