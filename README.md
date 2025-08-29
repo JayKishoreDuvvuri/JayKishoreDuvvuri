@@ -4,7 +4,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me
-👋 Hi, I’m ##Jay Kishore Duvvuri<br>
+👋 Hi, I’m Jay Kishore Duvvuri<br>
 🔭 Currently crafting automation frameworks with Playwright<br> 👯 Love collaborating on test automation for web, mobile, and new tools<br> 🤝 Experimenting with API testing and performance automation using k6.io<br> 🌱 On a journey of learning DevOps, CI/CD, and cloud automation<br> 💬 Always excited to chat about automation hacks, tooling, and testing strategies<br> ⚡ Fun fact: I enjoy connecting agile practices with automation-first approaches
 
 ## CV
