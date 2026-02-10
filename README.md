@@ -21,9 +21,9 @@
 
 ## 🎙️ Podcast
 [**How to Test This Podcast**](https://m.youtube.com/watch?v=oadQWhsg8mQ) <br>
-
-
 [**QA Samvaad Talk Show**](https://www.youtube.com/watch?v=FmeoZr4pG7M) <br>
+
+## <img width="2212" height="540" alt="LI-Logo" src="https://github.com/user-attachments/assets/a511408a-f5fd-42f6-91d7-6afd4d92083d" />
 
 
 ## ▶️ Recent videos
