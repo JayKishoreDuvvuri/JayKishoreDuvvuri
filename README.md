@@ -20,6 +20,9 @@
 
 
 ## 🎙️ Podcast
+[**How to Test This Podcast**](https://m.youtube.com/watch?v=oadQWhsg8mQ) <br>
+
+
 [**QA Samvaad Talk Show**](https://www.youtube.com/watch?v=FmeoZr4pG7M) <br>
 
 
