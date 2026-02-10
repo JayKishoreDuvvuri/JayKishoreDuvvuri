@@ -36,7 +36,7 @@
 🤖 **Playwright & AI**  
 - [Playwright with AI on LinkedIn](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE)  
 - [Playwright GitHub Repo – YouTube Mention](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI)  
-- [Playwright Feature on LinkedIn](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui)
+- [Playwright Salesforce on LinkedIn](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui)
 
 🧪 **Cypress Mention**  
 - [Cypress – LinkedIn Feature](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS)
