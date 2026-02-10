@@ -20,8 +20,8 @@
 
 
 ## 🎙️ Podcast
-[🎧 Listen on Spotify](https://open.spotify.com/episode/0x9IF2ouQTFygHcz70xu9x)  
-[▶️ Watch on YouTube](https://m.youtube.com/watch?v=oadQWhsg8mQ)
+[🎧 Listen on Spotify](https://open.spotify.com/episode/0x9IF2ouQTFygHcz70xu9x)  <br>
+[▶️ Watch on YouTube] 
 [**How to Test This Podcast**](https://m.youtube.com/watch?v=oadQWhsg8mQ) <br>
 [**QA Samvaad Talk Show**](https://www.youtube.com/watch?v=FmeoZr4pG7M) <br>
 
