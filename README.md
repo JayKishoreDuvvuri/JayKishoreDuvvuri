@@ -31,15 +31,15 @@
 ## ▶️ Recent Mentions & Features
 
 🎙️ **Podcast Feature**  
-- [How to Test This Podcast – Episode 13: How to Test Microservices](https://www.linkedin.com/posts/how-to-test-this-podcast_episode-13-how-to-test-microservices-activity-7426584159852163073-5Q8O)
+- [How to Test This Podcast – Episode 13: How to Test Microservices - Linkedin](https://www.linkedin.com/posts/how-to-test-this-podcast_episode-13-how-to-test-microservices-activity-7426584159852163073-5Q8O)
 
 🤖 **Playwright & AI**  
-- [Playwright with AI on LinkedIn](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE)  
+- [Playwright with AI - LinkedIn](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE)  
 - [Playwright GitHub Repo – YouTube Mention](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI)  
-- [Playwright Salesforce on LinkedIn](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui)
+- [Playwright Salesforce - LinkedIn](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui)
 
 🧪 **Cypress Mention**  
-- [Cypress – LinkedIn Feature](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS)
+- [Cypress Adobe Analytics – LinkedIn](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS)
 
 
 ## ☁ Cloud Certifications
