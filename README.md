@@ -20,6 +20,11 @@
 💼 Connect with me on  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Kishore%20Duvvuri-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70)
 
+## 🌐 Reach Out
+
+🔗 [LinkedIn – Jay Kishore Duvvuri](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70)
+
+
 
 ## 🎙️ Podcast
 
