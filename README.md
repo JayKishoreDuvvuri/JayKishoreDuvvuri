@@ -20,13 +20,14 @@
 
 
 ## 🎙️ Podcast
+[🎧 Listen on Spotify](https://open.spotify.com/episode/0x9IF2ouQTFygHcz70xu9x)  
+[▶️ Watch on YouTube](https://m.youtube.com/watch?v=oadQWhsg8mQ)
 [**How to Test This Podcast**](https://m.youtube.com/watch?v=oadQWhsg8mQ) <br>
 [**QA Samvaad Talk Show**](https://www.youtube.com/watch?v=FmeoZr4pG7M) <br>
 
-## <img width="2212" height="540" alt="LI-Logo" src="https://github.com/user-attachments/assets/a511408a-f5fd-42f6-91d7-6afd4d92083d" />
 
-
-## ▶️ Recent videos
+## ▶️ Recent Mentions
+[**How to Test This Podcast**](https://www.linkedin.com/posts/how-to-test-this-podcast_episode-13-how-to-test-microservices-activity-7426584159852163073-5Q8O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8dnH4B2FaY6zq62jD8KErL7CWC4huXtgI) <br>
 [**Playwright JavaScript with AI**](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8dnH4B2FaY6zq62jD8KErL7CWC4huXtgI) <br>
 [**Playwright GitHub Repo**](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI) <br>
 [**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
