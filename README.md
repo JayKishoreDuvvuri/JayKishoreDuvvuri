@@ -34,6 +34,8 @@
 - [How to Test This Podcast – Episode 13: How to Test Microservices - Linkedin](https://www.linkedin.com/posts/how-to-test-this-podcast_episode-13-how-to-test-microservices-activity-7426584159852163073-5Q8O)
 
 🤖 **Playwright & AI**  
+
+- [Playwright with AI - LinkedIn](https://www.linkedin.com/posts/joecolantonio_are-you-still-writing-playwright-tests-by-activity-7431763328445755392-rY6C/)  
 - [Playwright with AI - LinkedIn](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE)  
 - [Playwright GitHub Repo – YouTube Mention](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI)  
 - [Playwright Salesforce - LinkedIn](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui)
