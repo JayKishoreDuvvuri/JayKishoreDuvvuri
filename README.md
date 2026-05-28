@@ -8,7 +8,7 @@
 🔭 Currently building and evolving test **automation frameworks using Playwright**<br> 👯 Passionate about collaborating on **web and mobile test automation**, as well as exploring emerging testing tools<br> 🤝 Experimenting with **API testing and performance automation**<br> 🌱 Continuously learning **DevOps practices, CI/CD pipelines, and cloud-based automation**<br> 💬 Always happy to discuss **automation strategies, tooling best practices, and testing optimizations**<br> ⚡ **Fun fact:** I enjoy aligning **agile delivery models with an automation-first mindset**
 
 ## CV
-[![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://jaykishoreduvvuri-luvoczi.gamma.site/) 
+[![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://gamma.app/docs/47vv14159djfaco) 
 
 
 ## ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
