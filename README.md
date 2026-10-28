@@ -7,12 +7,14 @@
 👋 Hi, I’m **Jay Kishore Duvvuri**<br>
 🔭 Currently building and evolving test **automation frameworks using Playwright**<br> 👯 Passionate about collaborating on **web and mobile test automation**, as well as exploring emerging testing tools<br> 🤝 Experimenting with **API testing and performance automation**<br> 🌱 Continuously learning **DevOps practices, CI/CD pipelines, and cloud-based automation**<br> 💬 Always happy to discuss **automation strategies, tooling best practices, and testing optimizations**<br> ⚡ **Fun fact:** I enjoy aligning **agile delivery models with an automation-first mindset**
 
-## CV
-[![CV](https://jaykishoreduvvuri-luvoczi.gamma.site/jay-kishore-duvvuri)
+## 📄 CV / Resume
+
+[![CV](https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://jaykishoreduvvuri-luvoczi.gamma.site/jay-kishore-duvvuri)
 
 
-## ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
-[**Blogger Profile**](https://www.blogger.com/profile/06939442079028713822)
+## ✍️ Blogger
+
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/06939442079028713822)
 
 
 ## 🌐 Reach Out
